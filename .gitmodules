@@ -1,0 +1,3 @@
+[submodule "tests/features"]
+	path = tests/features
+	url = git@github.com:jorgebertran87/agnostic_tdd.git
